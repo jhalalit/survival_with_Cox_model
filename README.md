@@ -10,7 +10,7 @@ Model Assumptions:
 
 The Cox proportional hazards model is typically specified using the following equation:
 
-_h_(t|X) = _h0_(t) . exp(_β1_x1 + _β2_x2 + ... + _βp_xp)
+_h_(t|X) = _h0_(t) . exp(_β1_ x1 + _β2_ x2 + ... + _βp_ xp)
 
 Where:
 * _h_(t∣x) is the hazard function for an individual with covariate values 
