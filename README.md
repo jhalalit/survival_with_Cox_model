@@ -15,7 +15,7 @@ _h_(t|X) = _h0_(t) . exp(_β1_ x1 + _β2_ x2 + ... + _βp_ xp)
 Where:
 * _h_(t∣x) is the hazard function for an individual with covariate values 
 * _h0_(t) is the baseline hazard function, representing the hazard rate for an individual with all covariates set to zero.
-β1, β2 etc. are the coefficients (log hazard ratios) associated with the covariates
+* _β1_, _β2_ etc. are the coefficients (log hazard ratios) associated with the covariates
 
 '''
 
